@@ -4,8 +4,8 @@ der Westfälischen Hochschule Gelsenkirchen.
 
 ![fsvlogo](../img/fsv_LOGO_720p.png)
 
-Website: [ik.fsv-wh.de](https://fsi-wh.de)  
-Kontakt: [oeffentlichkeit@oeffentlichkeit@fsi-wh.de](mailto:oeffentlichkeit@fsi-wh.de)
+Website: [fsi-wh.de](https://fsi-wh.de)  
+Kontakt: [oeffentlichkeit@fsi-wh.de](mailto:oeffentlichkeit@fsi-wh.de)
 
 # Impressum
 FSV Informatik
